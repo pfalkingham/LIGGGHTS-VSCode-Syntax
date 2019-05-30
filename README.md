@@ -1,44 +1,6 @@
-# liggghts README
+LIGGGHTS-VSCode-Syntax
+Syntax file for Visual Studio Code to add syntax highlighting for LIGGGHTS (www.cfdem.com) input files
 
-This is the README for the extension "liggghts".
+This is pretty basic and made just for my needs (I don't use all functions of liggghts) but it can easily be expanded with mroe keywords.
 
-## Features
-
-Basically none!
-
-## Requirements
-
-none
-
-## Extension Settings
-none
-
-## Known Issues
-
-extremely limited vocabulary
-
-## Release Notes
-
-First attempt
-
-### 1.0.0
-
-Initial release of ...
-
-
------------------------------------------------------------------------------------------------------------
-
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+To use as-is, download the *.vsix file and install to VSCode
