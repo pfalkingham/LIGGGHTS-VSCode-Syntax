@@ -1,0 +1,26 @@
+{
+    "name": "liggghts",
+    "displayName": "liggghts-syntax",
+    "description": "syntax higlighting for liggghts",
+    "version": "0.0.1",
+    "publisher": "PeterFalkingham",
+    "engines": {
+        "vscode": "^1.16.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "liggghts",
+            "aliases": ["Liggghts", "liggghts"],
+            "extensions": [".liggghts"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "liggghts",
+            "scopeName": "source.liggghts",
+            "path": "./syntaxes/liggghts.tmLanguage.json"
+        }]
+    }
+}
